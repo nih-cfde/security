@@ -28,6 +28,8 @@ Now, ask your team members who need to access your project's review area to do t
 
 When you have the display names for your team, send an email message to __________, listing the display names for your team, and noting which one belongs to you, the PI.  We'll take care of the rest!
 
+## Accepting your invitation
+
 Shortly after you send your message, you and your team members should receive an email invitation to join your reviewers group. The message will have a link in it.
 
 ![Email invitation](email-invite.png)
