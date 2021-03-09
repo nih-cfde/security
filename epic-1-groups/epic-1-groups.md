@@ -45,3 +45,17 @@ On the Members tab for the group, click the name of the DCC PI or the right-poin
 This role change is immediate. The DCC PI will now be able to add, remove, or suspend membership in the group.
 
 _Do not assign the Administrator role to DCC PIs._ Administrators can delete the group. The relationship between the CFDE portal and the group isn't easy to recreate if the group is deleted, so we don't want to delete these groups while they're being used in the CFDE portal.
+
+## Removing DCC Group Members
+_Note: Only Group Managers can perform these steps_
+
+Follow the steps for Onboarding Members:
+
+**Click Members tab --> Click on Member to remove**
+
+Then, under 'Role & Status' **Click on Remove**
+
+At the Bottom of the screen **Click on Save changes**
+
+
+
