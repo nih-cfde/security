@@ -49,12 +49,9 @@ _Do not assign the Administrator role to DCC PIs._ Administrators can delete the
 ## Removing DCC Group Members
 _Note: Only Group Managers can perform these steps_
 
-Follow the steps for Onboarding Members:
-
-**Click Members tab --> Click on Member to remove**
-
-Then, under 'Role & Status' **Click on Remove**
-
+Follow the steps for Onboarding Members:  
+**Click Members tab --> Click on Member to remove**  
+Then, under 'Role & Status' **Click on Remove**  
 At the Bottom of the screen **Click on Save changes**
 
 
